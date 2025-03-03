@@ -1,5 +1,5 @@
 # IBM-Calculator
-IBM calculator as mini project by using HTML, CSS, and JavaScript.
+BMI calculator as mini project by using HTML, CSS and JavaScript.
 ## Overview:
 The **BMI Calculator** allows users to easily calculate their Body Mass Index (BMI) based on their height and weight. The result is compared against the standard BMI chart to help users assess their health status.
 
@@ -14,6 +14,6 @@ The **BMI Calculator** allows users to easily calculate their Body Mass Index (B
 - **JavaScript**: For implementing the BMI calculation logic.
 - ## Installation & Usage
 1. Clone the repository:
-   git clone  https://github.com/vvkgautam9686/IBM-Calculator.git
+   git clone  https://github.com/vvkgautam9686/BMI-Calculator.git
 2. Open index.html in a browser.
 3. Enter height and weight, then click Calculate to see your BMI.

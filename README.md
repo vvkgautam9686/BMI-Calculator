@@ -12,8 +12,3 @@ The **BMI Calculator** allows users to easily calculate their Body Mass Index (B
 - **HTML5**: For structuring the webpage.
 - **CSS3**: For styling the page.
 - **JavaScript**: For implementing the BMI calculation logic.
-
-## How to Use:
-1. **Clone the Repository**:  
-   Download or clone the repository using Git:
-   ```bash
